@@ -1,5 +1,5 @@
 # portifolio
- Site de portfólio em relação aos meus projetos feitos durante as aulas de TI da Fiap School
+ Site de portfólio em relação aos meus projetos feitos durante as aulas de TI da Fiap School.
 
  Tecnologia estudadas : 
 
