@@ -3,7 +3,7 @@
 
  Tecnologia estudadas : 
 
- Javascript
+ Javascript<br/>
  MongoDB
  MS SQL SERVER
  HTML5
