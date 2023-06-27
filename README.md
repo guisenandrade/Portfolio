@@ -4,8 +4,8 @@
  Tecnologia estudadas : 
 
  Javascript<br/>
- MongoDB
- MS SQL SERVER
- HTML5
- CSS3
- FIGMA
+ MongoDB<br/>
+ MS SQL SERVER<br/>
+ HTML5<br/>
+ CSS3<br/>
+ FIGMA<br/>
